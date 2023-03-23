@@ -2,4 +2,4 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Official Pytorch Implementation coming soon
+Official PyTorch Implementation coming soon
